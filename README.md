@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Md Tarique
+### Hi there 👋,
+my name is Md Tarique.
 A Junior Back-end developer working over Node JS as my Tool. 
 💕 I care about design perspective, communication, digital communities, and mindfulness.
 
