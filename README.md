@@ -8,7 +8,7 @@ A Junior Back-end developer working with Node JS as my Tool.
 Skills: NODE JS / MYSQL / HAPI JS / SEQUELIZE ORM
 
 - 🔭 I was recently working on Hapi js with Node js 
-- 🌱 I’m currently working on miniature (check out it's repo pinned below)
+- 🌱 I’m currently worked on Mongo DB based CRUD application. (check out it's repo pinned below)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/muhammad.tarique.921)
